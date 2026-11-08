@@ -149,7 +149,7 @@ flutter run                 # escolha o emulador/dispositivo
 - **Testes:** `flutter test` (23 testes; não acessam a internet).
 - **Testar o modo offline:** abra o app com internet uma vez (a previsão fica salva), ative o modo avião e puxe para atualizar: aparece a faixa "Sem conexão" com a data dos dados.
 - **Gerar APK:** `flutter build apk --release` (requer Android SDK).
-- **APK pronto (bônus):** `VigiaChuva-release.apk` acompanha a entrega. É um build de release testado em emulador Android 16 (Pixel, API 36): o app abre, busca a previsão real, gera alertas e funciona em modo avião, sem erros no logcat. Para instalar: `adb install VigiaChuva-release.apk`.
+- **APK pronto (bônus):** [VigiaChuva-release.apk na release v1.0.0](https://github.com/rafadonas/vigiachuva_app/releases/tag/v1.0.0). É um build de release testado em emulador Android 16 (Pixel, API 36): o app abre, busca a previsão real, gera alertas e funciona em modo avião, sem erros no logcat. Para instalar: `adb install VigiaChuva-release.apk`.
 
 ## 10. Vídeo
 
