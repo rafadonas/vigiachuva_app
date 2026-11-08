@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-label="VigiaChuva">
+  <rect width="640" height="160" rx="24" fill="#0B3954"/>
+  <path d="M96 30 C96 30 56 78 56 102 a40 40 0 0 0 80 0 C136 78 96 30 96 30 Z" fill="#7FD6DE"/>
+  <path d="M76 104 h40" stroke="#0B3954" stroke-width="7" stroke-linecap="round"/>
+  <path d="M84 118 h24" stroke="#0B3954" stroke-width="7" stroke-linecap="round"/>
+  <text x="168" y="92" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">VigiaChuva</text>
+  <text x="170" y="126" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="20" fill="#CFE8F5">Territory Predictive Insights · GS 2026.2</text>
+</svg>
