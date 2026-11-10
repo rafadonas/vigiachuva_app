@@ -153,7 +153,7 @@ flutter run                 # escolha o emulador/dispositivo
 
 ## 10. Vídeo
 
-▶️ **[link do vídeo de demonstração]** (2 min 58 s, legendado em português)
+▶️ **[Vídeo de demonstração (YouTube)](https://youtube.com/shorts/UAUJU0lGNPk)** (2 min 58 s, legendado em português)
 
 O vídeo foi gravado no emulador Android com o APK de release e mostra todas as telas: consentimento, início com benefício social, os três painéis, detalhe de indicador, alertas com justificativa, a geração de um alerta de chuva ao baixar o limiar de ATENÇÃO para 0,1 mm/h, o relato bloqueado por conter telefone, tema escuro, alto contraste, fonte a 200% e modo offline. O arquivo local é `VigiaChuva_demo_CPAD.mp4`, com legendas também em `.srt`.
 
